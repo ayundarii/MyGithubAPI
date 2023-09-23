@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGithubAPI</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="tab">Follower and Following</string>
+    <string name="favorite">Add to favorite?</string>
+    <string name="jumlah_follower">Jumlah Follower</string>
+    <string name="jumlah_following">Jumlah Following</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
