@@ -17,6 +17,7 @@ android {
         versionCode 1
         versionName "1.0"
 
+        buildConfigField("String", "KEY", '"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"')
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
